@@ -31,15 +31,15 @@ I'm passionate about machine learning, computer vision, and software development
 
 ## Featured Projects
 
-# Pre-Match Player Rating Predictor using Machine Learning
+### Pre-Match Player Rating Predictor using Machine Learning
 
 Machine learning project that predicts tournament outcomes using historical data.
 
-# Vision-based Crowd Footfall Detection at choke-point entries
+### Vision-based Crowd Footfall Detection at choke-point entries
 
 Computer vision project using YOLO for real-time object detection.
 
-# DSA Practice Repository
+### DSA Practice Repository
 
 Collection of solutions and notes from my DSA learning journey.
 
