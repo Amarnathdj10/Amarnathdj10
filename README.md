@@ -1,101 +1,49 @@
-<p align="center">
-  <img src="banner.png" alt="Synthwave Banner" width="100%">
-</p>
+# Hi, I'm Amarnath 👋
 
-<h1 align="center">AMARNATH.EXE</h1>
+🎓 Third-Year B.Tech Student in Artificial Intelligence & Machine Learning
 
-<p align="center">
-  <i>Artificial Intelligence & Machine Learning Student</i>
-</p>
+I'm passionate about machine learning, computer vision, and software development. Currently focused on improving my problem-solving skills, building practical AI projects, and preparing for software engineering opportunities.
 
----
+## Currently Working On
 
-```bash
-> booting profile...
+* FIFA World Cup Prediction Model
+* Data Structures & Algorithms
+* Computer Vision Projects
+* Linux and System Programming
 
-Name      : Amarnath DJ
-Class     : AI/ML Student
-Level     : 21
-Location  : Thiruvananthapuram, India
+## Skills
 
-Status    : ONLINE
-```
+**Languages**
 
-## TECH STACK
+* Python
+* C
+* Java
+* SQL
 
-```text
-Languages
-├── Python
-├── C
-├── Java
-└── SQL
+**Tools & Technologies**
 
-Tools
-├── Git
-├── Linux
-├── Jupyter
-└── VS Code
+* Git
+* Linux
+* Pandas
+* NumPy
+* Scikit-Learn
+* OpenCV
 
-AI / ML
-├── Pandas
-├── NumPy
-├── Scikit-Learn
-├── OpenCV
-└── YOLO
-```
+## Featured Projects
 
----
+### Pre-Match Player Rating Predictor
 
-## ACTIVE PROJECTS
+Machine learning project that predicts tournament outcomes using historical data.
 
-### FIFA WORLD CUP PREDICTION MODEL
+### Vision-based Crowd Footfall Detection at choke-point entries
 
-Predicting World Cup outcomes using historical tournament data and machine learning.
+Computer vision project using YOLO for real-time object detection.
 
-### COMPUTER VISION PROJECTS
+### DSA Practice Repository
 
-Object detection and tracking using YOLO and ByteTrack.
+Collection of solutions and notes from my DSA learning journey.
 
-### DSA JOURNEY
+## Connect with me
 
-Solving algorithmic problems and preparing for technical interviews.
-
----
-
-## SYSTEM STATS
-
-```text
-Learning Progress
-
-DSA                ███████░░░
-Machine Learning   ████████░░
-Linux              ██████░░░░
-Computer Vision    ███████░░░
-```
-
----
-
-## GITHUB STATS
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
-
----
-
-## CONTACT
-
-📧 amarnathdj56@gmail.com
-
-💼 LinkedIn: https/www.linkedin.com/in/amarnath-dj-b710abc
----
-
-```bash
-> mission_status
-
-Learning.
-Building.
-Improving.
-
-Mission not completed...
-```
+* LinkedIn: https:/www.linkedin.com/in/amarnath-dj-b710abc
+* Email: amarnathdj56@gmailcom
