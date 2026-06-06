@@ -39,9 +39,9 @@ Machine learning project that predicts tournament outcomes using historical data
 
 Computer vision project using YOLO for real-time object detection.
 
-### DSA Practice Repository
+### LeetCode joruney
 
-Collection of solutions and notes from my DSA learning journey.
+Collection of solutions to daily DSA problems.
 
 ## Connect with me
 
