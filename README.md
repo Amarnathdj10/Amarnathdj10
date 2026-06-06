@@ -46,4 +46,4 @@ Collection of solutions and notes from my DSA learning journey.
 ## Connect with me
 
 * LinkedIn: https:/www.linkedin.com/in/amarnath-dj-b710abc
-* Email: amarnathdj56@gmailcom
+* Email:  [amarnathdj56@gmail.com](mailto:amarnathdj56@gmail.com)
