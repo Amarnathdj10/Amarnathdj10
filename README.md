@@ -39,7 +39,7 @@ Machine learning project that predicts tournament outcomes using historical data
 
 Computer vision project using YOLO for real-time object detection.
 
-### LeetCode joruney
+### LeetCode journey
 
 Collection of solutions to daily DSA problems.
 
