@@ -10,7 +10,7 @@ My current focus is on machine learning, data science, software engineering, and
 
 ## 🚀 About Me
 
-🎓 Third-Year B.Tech Student in Artificial Intelligence & Machine Learning
+🎓 Fourth-Year B.Tech Student in Artificial Intelligence & Machine Learning
 
 🌍 Based in Kerala, India
 
