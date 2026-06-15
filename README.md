@@ -149,34 +149,6 @@ Collection of projects focused on:
 
 ---
 
-## 🎯 2026 Goals
-
-* Complete the Acoustic Rain Gauge Project
-* Build a strong AI/ML project portfolio
-* Contribute to Open Source
-* Improve Data Structures & Algorithms
-* Learn Deep Learning in depth
-* Gain industry experience through internships
-* Become industry-ready for Software Engineering and ML roles
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 📧 Email: [your-email@example.com](mailto:your-email@example.com)
@@ -186,9 +158,3 @@ Collection of projects focused on:
 🐙 GitHub: https://github.com/YOUR_USERNAME
 
 ---
-
-### 💡 Favorite Quote
-
-> "Consistency compounds. Small improvements every day eventually create extraordinary results."
-
-⭐ Thanks for visiting my profile!
