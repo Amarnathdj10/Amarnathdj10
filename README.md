@@ -149,6 +149,30 @@ Collection of projects focused on:
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amarnathdj10&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarnathdj10&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amarnathdj10&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amarnathdj10&theme=tokyo-night&hide_border=true" />
+
+</div>
+
 ## 🤝 Connect With Me
 
 📧 Email: [amarnathdj56@gmail.com](mailto:amarnathdj56@fmail.com)
