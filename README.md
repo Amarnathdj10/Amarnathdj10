@@ -151,10 +151,9 @@ Collection of projects focused on:
 
 ## 🤝 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [amarnathdj56@gmail.com](mailto:amarnathdj56@fmail.com)
 
-💼 LinkedIn: your-linkedin-profile
-
-🐙 GitHub: https://github.com/YOUR_USERNAME
+💼 LinkedIn: https://linkedin.com/in/amarnath-dj-b710abc
+🐙 GitHub: https://github.com/Amarnathdj10
 
 ---
