@@ -1,8 +1,12 @@
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amarnathdj10/Amarnathdj10/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=FF71CE&center=true&vCenter=true&width=900&lines=Amarnath+DJ;Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Systems;Data+Science+%7C+Machine+Learning+%7C+AI" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Vice%20City%20Vibes&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
+</div>
 
 # Hi 👋, I'm Amarnath DJ
 
