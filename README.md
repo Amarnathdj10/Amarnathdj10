@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=FF71CE&center=true&vCenter=true&width=900&lines=Amarnath+DJ;Artificial+Intelligence+%26+Machine+Learning;Machine+Learning+Engineer;Building+AI+for+Real-World+Problems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&pause=3000&color=FF71CE&center=true&vCenter=true&width=700&lines=Amarnath+DJ" />
 
 </div>
 
