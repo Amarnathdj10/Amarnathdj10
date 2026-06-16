@@ -154,6 +154,7 @@ Collection of projects focused on:
 📧 Email: [amarnathdj56@gmail.com](mailto:amarnathdj56@fmail.com)
 
 💼 LinkedIn: https://linkedin.com/in/amarnath-dj-b710abc
+
 🐙 GitHub: https://github.com/Amarnathdj10
 
 ---
