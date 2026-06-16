@@ -2,17 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=FF71CE&center=true&vCenter=true&width=900&lines=Amarnath+DJ;Artificial+Intelligence+%26+Machine+Learning;Machine+Learning+Engineer;Building+AI+for+Real-World+Problems" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Amarnathdj10&label=Profile%20Views&color=ff71ce&style=for-the-badge" />
-
 </div>
-
-</div>
-
-# Hi 👋, I'm Amarnath DJ
-
-### AI & ML Student | Aspiring ML Engineer
 
 I'm a fourth-year B.Tech student specializing in Artificial Intelligence and Machine Learning with a strong interest in building intelligent systems that solve real-world problems.
 
