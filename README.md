@@ -1,8 +1,8 @@
-<div align="center">
+## 🐍 Contribution Snake
 
-<img width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3d4ZzY2ZzM3d3I1d3N5d3h1MWQ2d2k4cHh3aXNhc3JlM3M4a3J4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amarnathdj10/Amarnathdj10/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 # Hi 👋, I'm Amarnath DJ
 
@@ -155,21 +155,6 @@ Collection of projects focused on:
 
 ---
 
-## 📈 GitHub Overview
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amarnathdj10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amarnathdj10&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amarnathdj10&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ## 🤝 Connect With Me
 
