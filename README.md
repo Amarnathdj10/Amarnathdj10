@@ -2,9 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=FF71CE&center=true&vCenter=true&width=900&lines=Amarnath+DJ;Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Systems;Data+Science+%7C+Machine+Learning+%7C+AI" />
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Vice%20City%20Vibes&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80" width="100%" />
 
 </div>
 
