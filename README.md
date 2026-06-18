@@ -158,6 +158,4 @@ Collection of projects focused on:
 
 💼 LinkedIn: https://linkedin.com/in/amarnath-dj-b710abc
 
-🐙 GitHub: https://github.com/Amarnathdj10
-
 ---
