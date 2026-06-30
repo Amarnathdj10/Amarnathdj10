@@ -112,6 +112,38 @@ Current Work:
 
 ---
 
+### 👥 Vision-Based Crowd Footfall Prediction at Choke-Point Entries
+
+An AI-driven crowd analytics system designed to estimate and forecast pedestrian footfall at choke-point entry locations using computer vision and time-series forecasting techniques.
+
+### Key Concepts:
+
+Computer Vision
+Crowd Counting
+Object Detection & Tracking
+Time-Series Forecasting
+ARIMA Modeling
+Data Analysis & Visualization
+Predictive Analytics
+
+### Features:
+
+Automated Crowd Counting from Video Streams
+Footfall Trend Analysis
+Crowd Forecasting at Entry Points
+Data Aggregation and Time-Series Modeling
+Real-World Application for Crowd Management and Public Safety
+
+### Technologies Used:
+
+Python
+OpenCV
+Pandas
+NumPy
+Matplotlib
+Scikit-Learn
+ARIMA
+
 ### ⚽ FIFA World Cup Prediction System
 
 Machine learning models built using historical FIFA World Cup datasets to predict tournament outcomes and team performances.
@@ -122,19 +154,6 @@ Features:
 * Feature Engineering
 * Predictive Modeling
 * Sports Analytics
-
----
-
-### 📊 Data Science & Machine Learning Projects
-
-Collection of projects focused on:
-
-* Classification
-* Regression
-* Data Visualization
-* Predictive Analytics
-* Model Evaluation
-* Feature Engineering
 
 ---
 
