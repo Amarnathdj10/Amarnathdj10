@@ -116,7 +116,7 @@ Current Work:
 
 An AI-driven crowd analytics system designed to estimate and forecast pedestrian footfall at choke-point entry locations using computer vision and time-series forecasting techniques.
 
-### Key Concepts:
+Key Concepts:
 
 Computer Vision
 Crowd Counting
@@ -126,7 +126,7 @@ ARIMA Modeling
 Data Analysis & Visualization
 Predictive Analytics
 
-### Features:
+Features:
 
 Automated Crowd Counting from Video Streams
 Footfall Trend Analysis
@@ -134,7 +134,7 @@ Crowd Forecasting at Entry Points
 Data Aggregation and Time-Series Modeling
 Real-World Application for Crowd Management and Public Safety
 
-### Technologies Used:
+Technologies Used:
 
 Python
 OpenCV
